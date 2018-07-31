@@ -1,0 +1,3 @@
+[submodule "BartlebysCore"]
+	path = BartlebysCore
+	url = https://github.com/Bartlebys/BartlebysCore.git
