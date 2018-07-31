@@ -1,0 +1,13 @@
+.DS_Store
+/.build
+/Packages
+/*.xcodeproj
+xcuserdata/
+
+
+# IDEA
+
+.idea/
+# Flexions
+/BartlebysCore.flexions/App/descriptors/_derived
+/BartlebysCore.flexions/App/out.flexions
