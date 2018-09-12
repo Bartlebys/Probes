@@ -9,5 +9,6 @@ A simple App to inspect Bartleby's Core HTTP probes
 
 ![](assets/probes-icon-128.png)
 
-[Download the signed app version 1.0.2](https://raw.githubusercontent.com/Bartlebys/Probes/master/assets/Probes.app.zip)
+- Build yourself: You currently need Xcode 10 + use legacy build system to build probes.
+- Download: The signed binary version can be downloaded from the releases tags.
 
